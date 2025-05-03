@@ -97,7 +97,7 @@ include 'dbconn.php';
 		<div class="card" id="web" style="width: 18rem;text-decoration:none">
 	    <div class="card-body">
 	    <h5 class="card-title">Web Development</h5>
-	    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+	    <p class="card-text">Report and track bugs related to websites, front-end issues, and web applications.</p>
 		</div>
 		</div>
 	</a>
@@ -105,7 +105,7 @@ include 'dbconn.php';
 		<div class="card" style="width: 18rem;">
 		  <div class="card-body">
 			<h5 class="card-title">Android App Development</h5>
-			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			<p class="card-text">Submit and explore bugs found in Android apps, from crashes to UI glitches.</p>
 		  </div>
 		</div>
 	</a>
@@ -113,7 +113,7 @@ include 'dbconn.php';
 		<div class="card" style="width: 18rem;">
 		  <div class="card-body">
 			<h5 class="card-title">Software Development</h5>
-			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			<p class="card-text">Manage bugs and errors in desktop software, tools, and general applications.</p>
 		  </div>
 		</div>
 	</a>
@@ -121,7 +121,7 @@ include 'dbconn.php';
 		<div class="card" style="width: 18rem;">
 		  <div class="card-body">
 			<h5 class="card-title">Database Solutions</h5>
-			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			<p class="card-text">Track issues in database systems, queries, and data management solutions.</p>
 		  </div>
 		</div>
 	</a>
@@ -129,7 +129,9 @@ include 'dbconn.php';
 		<div class="card" style="width: 18rem;">
 		  <div class="card-body">
 			<h5 class="card-title">Software Testing</h5>
-			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			<p class="card-text">Share testing reports and bugs found during manual or automated testing processes.
+
+</p>
 		  </div>
 		</div>
 	</a>
@@ -137,7 +139,7 @@ include 'dbconn.php';
 		<div class="card" style="width: 18rem;">
 		  <div class="card-body">
 			<h5 class="card-title">Cloud Computing</h5>
-			<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+			<p class="card-text">Identify and monitor bugs in cloud services, deployments, and cloud-based apps.</p>
 		  </div>
 		</div>
 	</a>
